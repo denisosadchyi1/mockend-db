@@ -9,6 +9,8 @@
     {"id": 7, "name": "iphone 12", "cost": 900 },
     {"id": 8, "name": "ipad air 2020", "cost": 600 },
     {"id": 9, "name": "iMac 2020", "cost": 2200 },
-    {"id": 10, "name": "phone 11", "cost": 800 }
+    {"id": 10, "name": "iphone 11", "cost": 800 },
+    {"id": 11, "name": "Apple Watch SE", "cost": 350 },
+    {"id": 12, "name": "iPad Pro 2020", "cost": 850 }
   ]
 }

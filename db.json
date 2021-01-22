@@ -1,7 +1,7 @@
 {
   "Products": [
-    {id: 1, name: iphone xr, cost: 500 },
-    {id: 2, name: airpods, cost: 150 },
+    {id: 1, name: 'iphone xr', cost: 500 },
+    {id: 2, name: 'airpods', cost: 150 },
     {id: 3, name: 'macbook pro 2017', cost: 1000 },
     {id: 4, name: 'macbook pro 2018', cost: 1200 },
     {id: 5, name: 'applewatch', cost: 300 },

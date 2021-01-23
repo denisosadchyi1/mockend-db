@@ -1,16 +1,16 @@
 {
   "products": [
-    {"id": 1, "name": "iphone xr", "cost": 500 },
-    {"id": 2, "name": "airpods", "cost": 150 },
-    {"id": 3, "name": "macbook pro 2017", "cost": 1000 },
-    {"id": 4, "name": "macbook pro 2018", "cost": 1200 },
-    {"id": 5, "name": "applewatch", "cost": 300 },
-    {"id": 6, "name": "airpods 2", "cost": 200 },
-    {"id": 7, "name": "iphone 12", "cost": 900 },
-    {"id": 8, "name": "ipad air 2020", "cost": 600 },
-    {"id": 9, "name": "iMac 2020", "cost": 2200 },
-    {"id": 10, "name": "iphone 11", "cost": 800 },
-    {"id": 11, "name": "Apple Watch SE", "cost": 350 },
-    {"id": 12, "name": "iPad Pro 2020", "cost": 850 }
+    {"id": 1, "name": "iphone xr", "cost": 500, "quantity": 0 },
+    {"id": 2, "name": "airpods", "cost": 150, "quantity": 0 },
+    {"id": 3, "name": "macbook pro 2017", "cost": 1000, "quantity": 0 },
+    {"id": 4, "name": "macbook pro 2018", "cost": 1200, "quantity": 0 },
+    {"id": 5, "name": "applewatch", "cost": 300, "quantity": 0 },
+    {"id": 6, "name": "airpods 2", "cost": 200, "quantity": 0 },
+    {"id": 7, "name": "iphone 12", "cost": 900, "quantity": 0 },
+    {"id": 8, "name": "ipad air 2020", "cost": 600, "quantity": 0 },
+    {"id": 9, "name": "iMac 2020", "cost": 2200, "quantity": 0 },
+    {"id": 10, "name": "iphone 11", "cost": 800, "quantity": 0 },
+    {"id": 11, "name": "Apple Watch SE", "cost": 350, "quantity": 0 },
+    {"id": 12, "name": "iPad Pro 2020", "cost": 850, "quantity": 0 }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "products": [
-    {"id": 1, "name": "iphone xr", "cost": 500, "quantity": 0 },
-    {"id": 2, "name": "airpods", "cost": 150, "quantity": 0 },
+    {"id": 1, "name": "iphone xr", "cost": 500, "quantity": 0, "url":"https://i8.rozetka.ua/goods/16754298/apple_iphone_xr_128gb_red_mrye2_images_16754298898.jpg" },
+    {"id": 2, "name": "airpods", "cost": 150, "quantity": 0,"url":"https://i1.rozetka.ua/goods/11800391/apple_mv7n2ru_a_images_11800391151.jpg },
     {"id": 3, "name": "macbook pro 2017", "cost": 1000, "quantity": 0 },
     {"id": 4, "name": "macbook pro 2018", "cost": 1200, "quantity": 0 },
     {"id": 5, "name": "applewatch", "cost": 300, "quantity": 0 },

@@ -12,10 +12,5 @@
     {"id": 10, "name": "Apple Watch SE", "cost": 350, "quantity": 0, "url": "https://i8.rozetka.ua/goods/19910956/apple_watch_se_44mm_gold_images_19910956441.jpg" },
     {"id": 11, "name": "airpods pro", "cost": 200, "quantity": 0, "url": "https://i8.rozetka.ua/goods/14779697/apple_airpods_pro_images_14779697592.jpg" },
     {"id": 12, "name": "airpods", "cost": 150, "quantity": 0, "url": "https://i1.rozetka.ua/goods/11800391/apple_mv7n2ru_a_images_11800391151.jpg" }
-  ],
-    "users": [
-    {"id": 1, "login": "test_user", "password": "qwerty12345", "remember": "false"},
-    {"id": 2, "login": "deyzer12", "password": "qwerty090909", "remember": "false"},
-    {"id": 3, "login": "prada", "password": "OnMyFeet777", "remember": "false"}
-  ],
+  ]
 }
